@@ -90,7 +90,7 @@ CREATE TABLE `m_user` (
 -- Records of m_user
 -- ----------------------------
 ```
-
+**后端测试运行记得打开redis服务**
 # 前端开发环境
 
 - vue
